@@ -1,0 +1,22 @@
+body{
+    font-family: 'Dosis', sans-serif;
+}
+#resultados {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#resultados div{
+    width: 100%;
+    height: 100%;
+}
+#resUser{
+    text-align: left;
+}
+#resRepo{
+    text-align: right;
+}
+.img{
+    width: 60%;   
+}
